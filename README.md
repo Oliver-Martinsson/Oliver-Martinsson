@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Route Master**
 
-- 🌱 I’m currently learning **Blazor, MVC**
+- 🌱 I’m currently learning **React, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
